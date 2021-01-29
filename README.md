@@ -20,6 +20,8 @@
   <a href="https://github.com/comojin1994"><img width="100pixel" src="https://user-images.githubusercontent.com/46745325/105145318-ea7d1580-5b41-11eb-9142-e3e08a009145.png"/></a>
 </p>
 
+> 본 앱은 동국대학교 대학혁신지원사업의 지원을 받아 개발되었습니다.
+
 [contributors-shield]: https://img.shields.io/github/contributors/ProjectInTheClass/STOCKER-FE.svg?style=flat&logo=github
 [contributors-url]: https://github.com/ProjectInTheClass/STOCKER-FE/graphs/contributors
 [commit-shield]: https://img.shields.io/github/commit-activity/y/ProjectInTheClass/STOCKER-FE.svg?style=flat&logo=github
